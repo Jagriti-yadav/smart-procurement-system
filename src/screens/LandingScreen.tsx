@@ -41,7 +41,7 @@ export function LandingScreen() {
             <div className="animate-slide-up">
               <div className="inline-flex items-center gap-2 bg-primary-100 text-primary-700 px-3 py-1.5 rounded-full text-sm font-semibold mb-4">
                 <Wheat size={16} />
-                Government of Rajasthan Initiative
+                Government of Uttarpradesh Initiative
               </div>
               <h1 className="text-3xl lg:text-5xl font-extrabold text-neutral-800 leading-tight">
                 Smart Procurement{' '}
@@ -157,7 +157,7 @@ export function LandingScreen() {
             <Sprout size={20} className="text-primary-400" />
             <span className="font-bold text-white">KisanSetu</span>
           </div>
-          <p className="text-sm">Smart Procurement Management System | Government of Rajasthan</p>
+          <p className="text-sm">Smart Procurement Management System | Government of Uttarpradesh</p>
           <p className="text-xs text-neutral-500 mt-2">Prototype for SIH 2026</p>
         </div>
       </footer>
